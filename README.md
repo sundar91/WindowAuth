@@ -1,2 +1,2 @@
 # WindowAuth
-WindowsAuth in dot net
+WindowsAuth in dot net core with Angular
